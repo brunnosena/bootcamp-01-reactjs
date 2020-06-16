@@ -37,3 +37,17 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+form {
+  width: 700px;
+  padding: 10px 0;
+}
+
+form input {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 5px 5px;
+}
