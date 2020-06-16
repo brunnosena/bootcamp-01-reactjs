@@ -1,2 +1,2 @@
-# bootcamp-01-node
+# bootcamp-01-reactjs
 First challenge GoStack in ReactJS
